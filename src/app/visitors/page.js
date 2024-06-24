@@ -28,13 +28,12 @@ const Page = () => {
     { title: "Phone No", key: "phoneNo" },
     { title: "Email", key: "emailId" },
     { title: "Name", key: "name" },
-    { title: "Address Line 1", key: "address.line1" },
-    { title: "Address Line 2", key: "address.line2" },
-    { title: "Address Line 3", key: "address.line3" },
+    { title: "Address Line 1", key: "addressLine1" },
+    { title: "Address Line 2", key: "addressLine2" },
+    { title: "Address Line 3", key: "addressLine3" },
     { title: "Date of Birth", key: "dob" },
     { title: "Anniversary Date", key: "anniversaryDate" },
     { title: "Game", key: "game" },
-    { title: "Table", key: "table" },
     { title: "Agreed to Terms", key: "agreeToTerms" },
   ];
 
