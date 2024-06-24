@@ -11,7 +11,7 @@ const Page = () => {
     const fetchVisitorData = async () => {
       try {
         const response = await axios.get(
-          "https://akshar-gaming-zone-backend.vercel.app/member"
+          "https://api.aksharenterprise.net/member"
         ); // Adjust the URL if needed
         setVisitorData(response.data);
       } catch (error) {
