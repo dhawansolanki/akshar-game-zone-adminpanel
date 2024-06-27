@@ -33,6 +33,8 @@ const Page = () => {
     { title: "Address Line 3", key: "addressLine3" },
     { title: "Date of Birth", key: "dob" },
     { title: "Anniversary Date", key: "anniversaryDate" },
+    { title: "Start Time", key: "startTime" },
+    { title: "End Time", key: "endTime" },
     { title: "Game", key: "game" },
     { title: "Agreed to Terms", key: "agreeToTerms" },
   ];
