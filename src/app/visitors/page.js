@@ -37,6 +37,10 @@ const Page = () => {
     { title: "Start Time", key: "startTime" },
     { title: "End Time", key: "endTime" },
     { title: "Game", key: "game" },
+    { title: "Status", key: "status" },
+    { title: "Razorpay OrderID", key: "razorpay_order_id" },
+    { title: "Razorpay PaymentID", key: "razorpay_payment_id" },
+    { title: "Razorpay Signature", key: "razorpay_signature" },
     { title: "Agreed to Terms", key: "agreeToTerms" },
   ];
 
